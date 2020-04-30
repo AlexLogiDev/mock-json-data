@@ -2,12 +2,12 @@
 {
     "realms": [
         {
-            "realm": "local-realm1",
+            "realm": "localRealm1",
             "info-client-header": "Title: local-realm1",
             "info-client-body": "Body: local-realm1" 
         },
         { 
-            "realm": "local-realm2",
+            "realm": "localRealm2",
             "info-client-header": "Title: local-realm2",
             "info-client-body": "Body: local-realm2"
         }
