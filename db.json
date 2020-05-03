@@ -14,20 +14,18 @@
     ],
     "realms-objs": [
         {
-            "localRealm1": [
-                {
-                    "info-client-header": "Title: Info client block très long long Local Realm #1",
-                    "info-client-body": "Body: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." 
-                }
-            ]
+            "localRealm1": 
+            {
+                "info-client-header": "Title: Info client block très long long Local Realm #1",
+                "info-client-body": "Body: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." 
+            }
         },
         {
-            "localRealm2": [
-                {
-                    "info-client-header": "Title: Info client block très long long Local Realm #2",
-                    "info-client-body": "Body: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." 
-                }
-            ]
+            "localRealm2": 
+            {
+                "info-client-header": "Title: Info client block très long long Local Realm #2",
+                "info-client-body": "Body: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua." 
+            }
         }
     ]
 }
